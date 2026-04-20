@@ -5,7 +5,7 @@
 ## Overview
 This repository contains a collection of baseline shell automation scripts used in 2021 for rapid provisioning of local Kubernetes development environments. It serves as a historical record of early node initialization workflows before the full transition to modern Infrastructure-as-Code (IaC) and Immutable Infrastructure standards.
 
-As a **Senior SRE with 10+ years of experience**, I maintain this repository to demonstrate the evolution of infrastructure automation—from imperative shell scripting to declarative, policy-driven orchestration used in 2026.
+As a **Senior SRE with 10+ years of experience**, I maintain this repository to demonstrate the evolution of infrastructure automation-from imperative shell scripting to declarative, policy-driven orchestration used in 2026.
 
 ## Repository Structure
 The project consists of specialized scripts for Debian-based distributions:
