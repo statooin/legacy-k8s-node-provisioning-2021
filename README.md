@@ -1,6 +1,6 @@
 # Legacy K8s Node Provisioning (2021 Archive)
 
-⚠️ **Status: Archival / Historical Reference**
+[⚠️STATUS: ARCHIVAL / HISTORICAL REFERENCE]
 
 ## Overview
 This repository contains a collection of baseline shell automation scripts used in 2021 for rapid provisioning of local Kubernetes development environments. It serves as a historical record of early node initialization workflows before the full transition to modern Infrastructure-as-Code (IaC) and Immutable Infrastructure standards.
